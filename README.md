@@ -16,55 +16,68 @@
 
 <div align="center">
 
-```javascript
-const yoochan = {
-  pronouns: "She/Her",
-  location: "Indonesia 🇮🇩",
-  role: "Full Stack Developer & Digital Artist",
-  code: ["JavaScript", "TypeScript", "Python", "Go", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue", "Next.js"],
-      css: ["Bootstrap", "Tailwind", "Sass"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Django", "Flask"],
-      go: ["Gin", "Fiber"]
-    },
-    databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-    tools: ["Git", "Docker", "VS Code", "Figma", "Adobe Creative Suite"]
-  },
-  currentFocus: "Building awesome projects & creating digital art 🚀",
-  challenges: ["Open Source Contributions", "Competitive Programming"],
-  hobbies: [
-    "Coding 💻", 
-    "Digital Art 🎨", 
-    "Figurative Expressionism", 
-    "Collecting Books 📚 (rarely read them lol)",
-    "Dreaming of personal library 📖"
-  ],
-  artisticStyle: "Figurative Expressionism",
-  funFact: "I debug with console.log() and I'm not ashamed 😄",
-  secretDream: "Building my own personal library filled with books I'll 'definitely' read someday 📚✨"
-};
-```
+### 🌟 Yoochan - Full Stack Developer & Digital Artist
+
+**`She/Her • Indonesia 🇮🇩 • Figurative Expressionism Artist`**
 
 </div>
 
 <br>
 
+<details open>
+<summary>👩‍💻 <b>Developer Profile</b></summary>
+<br>
+
+```javascript
+const yoochan = {
+  role: "Full Stack Developer & Digital Artist",
+  location: "Indonesia 🇮🇩",
+  languages: ["JavaScript", "TypeScript", "Python", "Go"],
+  specialization: {
+    frontend: ["React", "Vue", "Next.js", "Tailwind", "Bootstrap"],
+    backend: ["Node.js", "Express", "Django", "Gin"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    tools: ["Git", "Docker", "VS Code", "Figma", "Adobe Creative Suite"]
+  }
+};
+```
+
+</details>
+
+<details open>
+<summary>🎨 <b>Creative Side</b></summary>
+<br>
+
+- **Art Style**: Figurative Expressionism
+- **Medium**: Digital Art & Visual Storytelling
+- **Tools**: Adobe Creative Suite, Procreate
+- **Focus**: Merging code with creativity
+
+</details>
+
+<details open>
+<summary>📚 <b>Personal Interests</b></summary>
+<br>
+
+- 💻 **Coding**: Building awesome projects & learning new tech
+- 🎨 **Art**: Exploring figurative expressionism
+- 📖 **Books**: Collecting faster than reading (oops!)
+- 🏛️ **Dream**: Building a personal library
+- 😄 **Debug Method**: `console.log()` all the way!
+
+</details>
+
+<br>
+
 <div align="center">
 
-### 🎯 Current Goals
+### 🎯 Currently
 
-🔭 Working on multiple full-stack projects  
-🌱 Learning **Advanced React Patterns** & **System Design**  
-🎨 Exploring **Figurative Expressionism** in digital art  
-👯 Looking to collaborate on **Open Source Projects**  
-💬 Ask me about **Web Development, JavaScript, React, Digital Art**  
-📚 Building my dream personal library (one unread book at a time)  
-⚡ Fun fact: **I collect books faster than I can read them, but hey, at least they look pretty on the shelf! 📖✨**
+🔭 Working on **full-stack projects**  
+🌱 Learning **Advanced React & System Design**  
+🎨 Creating **digital art**  
+👯 Open to **collaborations**  
+💬 Ask me about **Web Dev, JavaScript, Art**
 
 </div>
 
