@@ -15,7 +15,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  
+
 ```javascript
 const yoochan = {
   pronouns: "She/Her",
@@ -49,15 +49,15 @@ const yoochan = {
   secretDream: "Building my own personal library filled with books I'll 'definitely' read someday 📚✨"
 };
 ```
-  
+
 </div>
 
 <br>
 
 <div align="center">
-  
+
 ### 🎯 Current Goals
-  
+
 🔭 Working on multiple full-stack projects  
 🌱 Learning **Advanced React Patterns** & **System Design**  
 🎨 Exploring **Figurative Expressionism** in digital art  
