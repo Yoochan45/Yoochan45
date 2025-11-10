@@ -95,7 +95,7 @@ For me, writing code is an art — building something useful and meaningful for 
 <h2 align="center">Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoochan45&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoockh&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
