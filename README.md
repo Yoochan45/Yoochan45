@@ -15,12 +15,8 @@
 <h2 align="center">About Me</h2>
 
 <div align="center">
-
-### Aisiya Qutwatunnada - Full Stack Developer (Backend Oriented)
-**She/Her • Indonesia**
-<div align="center">
-
-<h3>Hi there 👋 </h3>
+<h3>Hi there 👋 I’m Aisiya Qutwatunnada</h3>
+<p><strong>She/Her • Indonesia</strong></p>
 
 <p>I’m a backend-oriented fullstack developer, mostly working with <strong>Golang</strong>.  
 I’m also learning <strong>JavaScript</strong> and <strong>Python</strong> to level up my fullstack skills.  
@@ -28,7 +24,6 @@ I’m super interested in <strong>Cloud Computing</strong> (planning to explore 
 
 <p>Aside from coding, I love exploring my creative side with <strong>UI/Graphic Design</strong> using tools like <strong>Canva</strong> and <strong>Krita</strong>.  
 For me, writing code is an art — building something useful and meaningful for people.</p>
-</div>
 </div>
 
 
@@ -74,8 +69,8 @@ For me, writing code is an art — building something useful and meaningful for 
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoochan45&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" height="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoochan45&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoochan45&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoochan45&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" height="200"/>
 </div>
 
 <div align="center">
