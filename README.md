@@ -4,11 +4,11 @@
 </div>
 
 <!-- Profile Views Badge -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yoochan45&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Yoochan45?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Yoochan45?label=Stars&style=social" alt="stars" />
-</p>
+</p> -->
 
 ---
 
@@ -70,7 +70,7 @@ For me, writing code is an art — building something useful and meaningful for 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yoochan45&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoochan45&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" height="180"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoochan45&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" height="180"/> -->
 </div>
 
 <div align="center">
