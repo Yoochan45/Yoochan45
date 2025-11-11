@@ -119,10 +119,10 @@ For me, writing code is an art — building something useful and meaningful for 
   </a>
   <a href="https://www.tiktok.com/@yoockh" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@yoockh-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
+ <!--  </a>
   <a href="https://www.linkedin.com/in/aisiya-qutwatunnada" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aisiya_qutwatunnada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
   <a href="mailto:yaya45chan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yaya45chan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
